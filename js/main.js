@@ -1,4 +1,4 @@
-var $input = $('#grocery-input');
+var $input = $('#to-do-list-input');
 var $list = $(".list");
 
 $('form').on('submit', function (e) {
